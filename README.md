@@ -5,6 +5,8 @@ The form is created using different HTML elements like check boxes, radio button
 
 Added client side form validation in the form using different validation attributes in the HTML.
 
+The page is fully responsive.
+
 You can find the project at the following URL.
 
 https://naveen219.github.io/Survey-form/
